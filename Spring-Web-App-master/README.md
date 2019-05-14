@@ -20,4 +20,4 @@
   * Hibernate Session Factory
   * JSP, Spring Forms
   * JSTL 
-  * MySQL
+  * MsSQL
